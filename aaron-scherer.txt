@@ -1,0 +1,60 @@
+link to finish codepen: https://codepen.io/Scheraar/pen/ExPEpYX?editors=1100
+
+
+Copy the questions below into the first-lastname.txt file on your github repo - answer each question and then push your changes. 
+
+    1. What is Semantic HTML?  Elements with a meaning ex.<form>,<table>, and <article>
+    2. What is HTML used for? To create electronic documents that are displayed on the World Wide Web
+    3. What is an attribute and where do we put it? Attributes define additional characteristics or properties of the element. Attribute values should always be enclosed in quotation marks.
+    4. What is the h1 tag used for? How many times should I use it on a page? Indicates a heading on a website and once
+    5. Name two tags that have required attributes. <img> and <a>
+    6. What do we put in the head of our HTML document? Metadata 
+    7. What is an id?  specifies a unique id for an HTML element
+    8. What elements can I add an id to? <h1-h6>
+    9. How many times can I use the same id on a page? no more then once
+    10. What is a class? an attribute which specifies one or more class names for an HTML element.
+    11. What elements can I add a class to? <div> <h1>
+    12. How many times can I use the same class on a page? no limit
+    13. How do I get my link to open in a new tab? target="_blank"
+    14. What is the alt attribute in the image tag used for?  provides alternative information for an image if a user for some reason cannot view it
+    15. How do I reference an id?usually with a #. ex. #myHeader{}
+    16. What is the difference between a section and a div. The <section> element represents a generic section of a document or application.The <div> element has no special meaning at all.
+    17. What is CSS used for? CSS is the language for describing the presentation of Web pages
+    18. How to we select an element? Example - every h2 on the page
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one. class you can you multiple times. id's should only be used once.Use a class when you want to consistently style multiple elements throughout the page/site. Use the ID when you have a single element on the page that will take the style.
+    20. How do we select classes in CSS? With a period and the name of the class.
+    21. How do we select a p element with a single class of “human””? <p=class="human">
+    22. What is a parent child selector? When would this be useful? selector selects all elements that are a direct child of the specified element.
+    23. How do you select all links within a div with the class of sidebar?:link {css declarations;}
+    24. What is a pseudo selector? a selector that selects elements that are in a specific state, they are the first element of their type.
+    25. What do we use the change the spacing between lines? line-height Property
+    26. What do we use to change the spacing between letters?letter-spacing Property
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? text-transform Property
+    28. How do I add a 1px border around my div that is dotted and black?{border-style: dotted;}
+    29. How do I select everything on the page? ctrl + A
+    30. How do I write a comment in CSS?/*comment*/
+    31. How do I find out what file I am in, when I am using the command line? pwd
+    32. Using the command line - how do I see a list of files/folders in my current folder?ls
+    33. How do I remove a file via the command line? Why do I have to be careful with this? rm<file>. No warning prompt
+    34. Why should I use version control? Very useful and can go back to a working version of the project.
+    35. How often should I commit to github? often
+    36. What is the command we would use to push our repo up to github? git push -u origin master
+    37. Walk me through Lambda's git flow. 
+    1.Fork
+    2.insure it's your own version
+    3.Add Collaborators 
+    4.Clone
+    5.Create a Branch
+    6.submit PR 
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?  inline elements do not force a new line to begin in the document flow. Block elements, on the other hand, typically cause a line break to occur
+    2. What happens when an element is positioned absolutely? An absolutely positioned element is an element whose computed position value is absolute or fixed. 
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+
+
+
+   --> 
